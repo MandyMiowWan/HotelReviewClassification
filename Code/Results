@@ -1,0 +1,17 @@
+
+VADER dataset
+Model			RF	DT		SVM(SGD)	
+Accuracy	0.96	0.94	0.96	
+F1 Score  0.95	0.94	0.96	
+ROC AUC 	0.90	0.67	0.92	
+Recall 		0.96	0.94	0.96	
+Precision 0.95	0.94	0.95	
+
+
+RoBERTa dataset
+	Model		RF	DT		SVM(SGD)	
+Accuracy	0.94	0.91	0.95
+F1 Score 	0.93	0.91	0.93
+ROC AUC 	0.91	0.73	0.92
+Recall 		0.94	0.91	0.95
+Precision 0.93	0.91	0.93
